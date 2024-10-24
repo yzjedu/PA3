@@ -2,7 +2,7 @@
 
 ### 🔵 Understand the problem and Design before Coding 🔵
 
-#### 🟢 FINAL DUE: Thursday 11/06/24
+#### 🟢 FINAL DUE: Thursday 11/07/24
 
 - #### Programming Grade: EMRN    
 
@@ -128,7 +128,7 @@ Follow the programming assignment requirements document for comments, formatting
 
 **Remember to ask for help early if you are stuck -- don't wait until the night before it's due to start asking for help.**
 
-## `VIII. FINAL SUBMISSION due 11/06`
+## `VIII. FINAL SUBMISSION due 11/07`
 ### What to Submit in GitHub:
 
 1. Completed `main.py` file
